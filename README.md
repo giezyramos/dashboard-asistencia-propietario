@@ -36,7 +36,7 @@ El dashboard está estructurado bajo un modelo de datos con relaciones 1:* centr
 ## 📸 Vistas del Proyecto
 
 ### Dashboard
-[Reporte de seguimiento de asistencia al propietario.pdf](https://github.com/user-attachments/files/20399871/Reporte.de.seguimiento.de.asistencia.al.propietario.pdf)
+![Asistencia al Propietario](https://github.com/user-attachments/assets/f34a5f33-ed59-490a-ad7b-2e700616303d)
 
 
 ### Modelo Relacional
